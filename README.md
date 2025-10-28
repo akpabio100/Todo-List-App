@@ -38,4 +38,7 @@ The app layout automatically adjusts for mobile and tablet screens using **CSS m
    ```bash
    git clone https://github.com/akpabio100/Todo-List-App.git
 
+---
+
+✨ Update: This change was made from the `dev` branch for testing a pull request.
 
